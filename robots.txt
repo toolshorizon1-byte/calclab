@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://calclab.vercel.app/sitemap.xml
+
+
+
